@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 劉蕺山集
-#+DATE: 2020-03-31 11:38:15.153810
+#+DATE: 2020-03-31 11:38:15.399043
 #+PROPERTY: ID KR4e0230
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR4e0230_WYG_000-1a>¶
 　　御題劉宗周黄道周集(有序)¶
